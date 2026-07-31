@@ -42,9 +42,6 @@ Practiced commonly asked Salesforce interview questions related to automation, F
 - Strengthened interview preparation by answering scenario-based Salesforce questions.
 - Enhanced the Hospital OPD Management System using Salesforce best practices.
 
-## Documentation
-
-The complete implementation report for Day 3 is available in the **Documentation** folder.
 
 ## Screenshots
 
