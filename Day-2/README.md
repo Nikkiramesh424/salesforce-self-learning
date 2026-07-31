@@ -26,10 +26,6 @@ Implemented communication between Parent and Child Lightning Web Components usin
 - Developed interactive Lightning Web Components with Parent-Child communication.
 - Improved knowledge of writing optimized and scalable Apex code.
 
-## Documentation
-
-The complete implementation report for Day 2 is available in the **Documentation** folder.
-
 ## Screenshots
 
 All screenshots related to the practical tasks are available in the **Screenshots** folder for reference.
