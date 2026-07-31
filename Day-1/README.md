@@ -30,9 +30,6 @@ Built and deployed a **Lightning Web Component** using **VS Code** to display pa
 - Developed and deployed a Lightning Web Component using VS Code.
 - Improved practical knowledge of Salesforce application development.
 
-## Documentation
-
-The complete implementation report for Day 1 is available in the **Documentation** folder.
 
 ## Screenshots
 
